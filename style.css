@@ -44,19 +44,19 @@ body {
 
 
 .remove, .tick {
-  background-color: #fff;
+  background-color: #f17373;
   border: none;
   cursor: pointer;
   font-size: 16px;
 }
 
 .remove:hover, .tick:hover {
-  background-color: #f2f2f2;
+  background-color: #e44444;
 }
 
 
 .to-dos__delete-btn {
-  background-color: #f44336;
+  /* background-color: #f44336; */
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -66,5 +66,5 @@ body {
 }
 
 .to-dos__delete-btn:hover {
-  background-color: #d32f2f;
+  background-color: #9b0d0d;
 }
